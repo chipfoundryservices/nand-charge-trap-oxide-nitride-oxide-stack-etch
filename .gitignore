@@ -1,0 +1,31 @@
+# Build artifacts
+*.pdf
+*.epub
+*.html
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+
+# Temporary files
+*.tmp
+*.bak
+.scratch/
